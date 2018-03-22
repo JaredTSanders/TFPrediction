@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/JaredTSanders/BeginToReason-ML.svg?branch=master)](https://travis-ci.org/JaredTSanders/BeginToReason-ML)
+|**Current Version**| **Current Accuracy** |
+|-----------------|-----------------|
+|[![Build Status](https://travis-ci.org/JaredTSanders/BeginToReason-ML.svg?branch=master)](https://travis-ci.org/JaredTSanders/BeginToReason-ML)|![Current Accuracy](https://img.shields.io/badge/accuracy-76%25-yellowgreen.svg)|
 
 # Research on Machine Learning
 
