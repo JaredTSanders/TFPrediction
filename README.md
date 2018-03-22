@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/JaredTSanders/TensorFlow-Prediction/blob/master/LICENSE.txt)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/JaredTSanders/BeginToReason-ML/blob/master/LICENSE)
 
 # Research on Machine Learning
 
