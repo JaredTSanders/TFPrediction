@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](https://github.com/JaredTSanders/BeginToReason-ML/blob/master/LICENSE) [![Build Status](https://travis-ci.org/JaredTSanders/BeginToReason-ML.svg?branch=master)](https://travis-ci.org/JaredTSanders/BeginToReason-ML)
+[![Build Status](https://travis-ci.org/JaredTSanders/BeginToReason-ML.svg?branch=master)](https://travis-ci.org/JaredTSanders/BeginToReason-ML)
 
 # Research on Machine Learning
 
