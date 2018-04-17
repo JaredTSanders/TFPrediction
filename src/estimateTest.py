@@ -23,7 +23,6 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-"""An Example of a DNNClassifier for the Iris dataset."""
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -54,8 +53,8 @@ def main(argv):
         feature_columns=my_feature_columns,
         # Two hidden layers of 10 nodes each.
         hidden_units=[10, 10],
-        # The model must choose between 3 classes.
-        n_classes=5)
+        # The model must choose between 4 classes.
+        n_classes=6)
 
     # Train the Model.
     classifier.train(
