@@ -17,7 +17,7 @@ def maybe_download():
 
 
 def load_data(y_name='Grades'):
-    """Returns the iris dataset as (train_x, train_y), (test_x, test_y)."""
+    """Returns the dataset as (train_x, train_y), (test_x, test_y)."""
     train_path, test_path = maybe_download()
 
     train = pd.read_csv(train_path, names=CSV_COLUMN_NAMES, header=0)
